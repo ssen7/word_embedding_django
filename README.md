@@ -1,1 +1,1 @@
-## Demo project for using Pytorch and Django
+### Demo project for using Pytorch and Django
